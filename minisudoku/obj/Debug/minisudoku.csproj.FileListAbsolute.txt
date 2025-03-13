@@ -1,0 +1,5 @@
+C:\Users\cece-\source\repos\minisudoku\minisudoku\obj\Debug\minisudoku.csproj.AssemblyReference.cache
+C:\Users\cece-\source\repos\minisudoku\minisudoku\obj\Debug\minisudoku.Form1.resources
+C:\Users\cece-\source\repos\minisudoku\minisudoku\obj\Debug\minisudoku.Properties.Resources.resources
+C:\Users\cece-\source\repos\minisudoku\minisudoku\obj\Debug\minisudoku.csproj.GenerateResource.cache
+C:\Users\cece-\source\repos\minisudoku\minisudoku\obj\Debug\minisudoku.csproj.CoreCompileInputs.cache
